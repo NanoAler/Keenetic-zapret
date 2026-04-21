@@ -1,0 +1,13 @@
+graph.facebook.com
+play.google.com
+googleads.g.doubleclick.net
+ep7.facebook.com
+latency.discord.media
+stable.dl2.discordapp.net
+youtubei.googleapis.com
+i.ytimg.com
+s.youtube.com
+redirector.googlevideo.com
+www.xnxx-ru.com
+yt3.ggpht.com
+platform-lookaside.fbsbx.com
