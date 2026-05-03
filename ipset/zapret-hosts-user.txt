@@ -17,3 +17,15 @@ youtube.com
 googlevideo.com
 ytimg.com
 youtu.be
+twitter.com
+www.speedtest.net
+abs.twimg.com
+api.x.com
+pbs.twimg.com
+twimg.com
+speedtest.net
+x.com
+
+modrinth.com
+api.modrinth.com
+cdn.modrinth.com
